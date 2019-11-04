@@ -1,0 +1,38 @@
+.panel {
+	width: 100%;
+}
+
+.jumbotron {
+	background-image: url("../img/burger.png");
+	background-repeat: no-repeat; 
+	background-position: right;
+	margin-top: 3%;
+	color: black;
+	opacity: 0.95;
+	border: 5px solid white;
+    border-radius: 10px;
+  }
+  #newburger {
+	color: #5c5c5c;
+  }
+  #leftside {
+	background-color: lightgray;
+	color: black;
+	text-align: center;
+	font-size: 1.3em;
+  }
+  #rightside {
+	background-color:lightgray;
+	color: black;
+	text-align: center;
+	font-size: 1.3em;
+  }
+  body {
+	background-image: url("../img/burgerfactory.jpg");
+  }
+
+.row {
+	border-color: black;
+	padding: 15px;
+	opacity: 0.95;
+}
